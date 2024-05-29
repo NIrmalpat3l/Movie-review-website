@@ -1,0 +1,1 @@
+export const DB_NAME = "movie_review_site";
