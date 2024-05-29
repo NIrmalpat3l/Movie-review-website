@@ -25,7 +25,7 @@ Unordered Lists:
 ## Clone the Repository:
 
 ```HTML
-git clone https://github.com/<your-username>/movie-review-website.git
+git clone [https://github.com/<your-username>/movie-review-website.git](https://github.com/NIrmalpat3l/Movie-review-website)
 ```
 
 **Use code with caution.**
