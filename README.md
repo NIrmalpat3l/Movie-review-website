@@ -31,7 +31,7 @@ git clone https://github.com/NIrmalpat3l/movie-review-website.git
 **Use code with caution.**
 
     Set Up Dependencies (if applicable):
-        If your project uses any external libraries or      frameworks,install them using a package manager like npm or yarn.
+        If your project uses any external libraries or frameworks,install them using a package manager like npm or yarn.
 
     Configure Database Connection (if applicable):
         You'll likely need to configure a connection string or credentials to access your MongoDB database. Refer to the specific documentation for your chosen MongoDB library or driver.
