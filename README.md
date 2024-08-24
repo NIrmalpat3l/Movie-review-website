@@ -1,48 +1,46 @@
-# Movie Review Website
+# [Movie Review Website](https://movie-review-site.vercel.app/)
 
-## Link
-[click here](https://movie-review-site-wfvy.vercel.app/)
-#### This project is a movie review website built using HTML, CSS, JavaScript, and MongoDB for storing review data. It allows users to browse reviews for movies and submit their own reviews. The website is deployed using Vercel.
+## Introduction
+The Movie Review Website offers a dynamic platform for users to explore, review, and discuss movies. It integrates front-end and back-end technologies to provide a seamless user experience for movie enthusiasts.
 
-# Technologies Used:
-Unordered Lists:
-### Frontend:
-- HTML: Structure and content of the webpages.
-- CSS: Styling and visual design of the website.
-- JavaScript: Interactivity and dynamic behavior.
-### Backend:
-- MongoDB: Database for storing movie reviews.
-- Deployment: This whole project is deployed on the vercel server.
-- Vercel: Hosting platform for the website.
+## Features
+- **Dynamic Search**: Users can search for movies based on titles.
+- **Interactive Reviews**: Users can read and write reviews, sharing their movie experiences.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Real-time Data Handling**: Instant retrieval and update of movie details and reviews.
 
-***
-# Features:
+## Getting Started
+Follow these instructions to set up and run a movie-review-site project on your local machine.
 
-    Display movie reviews based on movie ID.
-    Allow users to submit new reviews with username and review text.
-    Edit and delete existing user reviews (optional, functionality depends on your implementation).
+## Prerequisites
+- Node.js
+- npm (Node Package Manager)
+- MongoDB
+- A modern web browser
+- Postman (for testing)
 
-# Getting Started:
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kushalpatel0265/movie-review-site.git
+2. Navigate to the project directory:
+   ```bash
+   cd MovieReviewSite
+3. Install dependencies:
+   ```bash
+   npm install cors dotenv express mongodb mongoose mongoose-aggregate-paginate-v2
+   npm install nodemon -D
 
-## Clone the Repository:
+## Usage
+1. Start the server:
+   ```bash
+   npm run dev
+2. Open a web browser and navigate to http://localhost:9000 to start exploring the website.
 
-```HTML
-git clone https://github.com/NIrmalpat3l/movie-review-website.git
-```
+## Contributing
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
 
-**Use code with caution.**
-
-    Set Up Dependencies (if applicable):
-        If your project uses any external libraries or frameworks,install them using a package manager like npm or yarn.
-
-    Configure Database Connection (if applicable):
-        You'll likely need to configure a connection string or credentials to access your MongoDB database. Refer to the specific documentation for your chosen MongoDB library or driver.
-
-    Run the Application Locally (optional):
-        Depending on your development setup, you might be able to run the website locally using a web server like http-server. This allows for testing and development before deployment.
-
-    Deploy to Vercel:
-        Create a Vercel account and connect your GitHub repository.
-        Vercel will handle building and deploying the website based on your project configuration.
-
-Feel free to customize this README further to provide more detailed instructions or information specific to your project.
+## Contact
+- Gmail: kushalpatel0265@gmail.com
+- Project Link: https://github.com/kushalpatel0265/movie-review-site
+- Deployment Link: https://movie-review-site.vercel.app/
