@@ -41,6 +41,6 @@ Follow these instructions to set up and run a movie-review-site project on your 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
 
 ## Contact
-- Gmail: kushalpatel0265@gmail.com
+- Gmail: nspp3305@gmail.com
 - Project Link: https://github.com/kushalpatel0265/movie-review-site
 - Deployment Link: https://movie-review-site.vercel.app/
