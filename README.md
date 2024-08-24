@@ -22,7 +22,7 @@ Follow these instructions to set up and run a movie-review-site project on your 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kushalpatel0265/movie-review-site.git
+   git clone https://github.com/NIrmalpat3l/Movie-review-website.git
 2. Navigate to the project directory:
    ```bash
    cd MovieReviewSite
@@ -42,5 +42,5 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 ## Contact
 - Gmail: nspp3305@gmail.com
-- Project Link: https://github.com/kushalpatel0265/movie-review-site
+- Project Link: https://github.com/NIrmalpat3l/Movie-review-website
 - Deployment Link: https://movie-review-site.vercel.app/
